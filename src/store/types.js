@@ -1,0 +1,4 @@
+export const IS_LOADING = "LOADING";
+export const FETCH_CITY_SUCCESS = "FETCH_CITY_SUCCESS";
+export const FETCH_CITY_ERROR = "FETCH_CITY_ERROR";
+export const RESET_ERROR = "RESET_ERROR";
